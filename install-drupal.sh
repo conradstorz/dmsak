@@ -29,6 +29,8 @@
 # Or simply: install-drupal.sh drupal-6.10.tar.gz
 #
 # More info at: http://www.torvall.net
+#
+# This is a change again
 
 # Search for config file. First in the current working directory, then at the user's home and finally in /etc.
 # If all fails, default values will be used.
